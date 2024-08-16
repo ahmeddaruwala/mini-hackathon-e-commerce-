@@ -1,0 +1,40 @@
+.active
+{
+    margin-left: 250px;
+}
+.navbar-btn
+{
+    outline: none;
+    border: none;
+    background-color: #4f4f4f;
+    color: azure;
+    margin-left: 20px;
+}
+.navbar-btn:hover
+{
+    background-color: #2f2f2f;
+    color: azure;
+}
+.submit
+{
+    outline: none;
+    border: none;
+    background-color: #4f4f4f;
+    color: azure;
+    /* margin-left: 350px; */
+}
+.submit:hover
+{
+    background-color: #2f2f2f;
+    color: azure;
+}
+#input
+{
+    margin-left: 30px;
+}
+#input:focus
+{
+    outline: none;
+    border: 2px solid #4f4f4f;
+    box-shadow: none;
+}
